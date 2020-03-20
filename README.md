@@ -13,7 +13,7 @@ by Jihong Wang, Minnan Luo, Fnu Suya, Jundong Li, Zijiang Yang, Qinghua Zheng
 Here is a demo.py for you, just run `python demo.python`
 
 ## Example output
-
+![AFGSM example](http://github.com/wangjh-github/AFGSM/raw/master/demo.png)
 ## References
 ### Datasets
 We provide two datasets in the `data `folder:  
