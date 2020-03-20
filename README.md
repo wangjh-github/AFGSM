@@ -10,7 +10,7 @@ by Jihong Wang, Minnan Luo, Fnu Suya, Jundong Li, Zijiang Yang, Qinghua Zheng
 * `tensorflow`
 
 ## Run the code
-Here is a demo.py for you, just run `python demo.python`
+Here is a `demo.py` for you, just run `python demo.py`
 
 ## Example output
 ![AFGSM example](https://raw.githubusercontent.com/wangjh-github/AFGSM/master/demo.png)
