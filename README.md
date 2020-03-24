@@ -1,4 +1,4 @@
-Implementation of paper **Fast Adversarial Attack on Graph Data by Injecting Vicious Nodes**
+Implementation of paper **Scalable Attack on Graph Data by Injecting Vicious Nodes**
 
 by Jihong Wang, Minnan Luo, Fnu Suya, Jundong Li, Zijiang Yang, Qinghua Zheng
 
